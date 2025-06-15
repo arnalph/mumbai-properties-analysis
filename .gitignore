@@ -1,0 +1,8 @@
+# Ignore generated files
+*.ipynb_checkpoints
+__pycache__/
+*.csv
+*.json
+*.html
+.env
+.DS_Store
